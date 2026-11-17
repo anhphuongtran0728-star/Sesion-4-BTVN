@@ -1,0 +1,24 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    border: 3px solid black;
+    padding: 10px 12px;
+}
+
+p {
+    font-size: 28px;
+    line-height: 1.6;
+    margin-bottom: 32px;
+}
+
+a {
+    color: royalblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
